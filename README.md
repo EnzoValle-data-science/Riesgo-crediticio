@@ -28,12 +28,33 @@ Comparar y evaluar diversos modelos de aprendizaje supervisado para predecir el 
    - **SVM**
    - **Deep Neural Networks (DNN)**
 
+
 ## Resultados
 - **Dataset Lending Club**:
-  - SVM obtuvo una precisión del 99.97% y un AUC del 99.97%, lo que indica un modelo casi perfecto en la predicción del riesgo de incumplimiento.
+  - SVM obtuvo una precisión del 99.89% y un AUC del 99.89%, lo que indica un modelo casi perfecto en la predicción del riesgo de incumplimiento.
+ 
+
+| **Resultados**                           | **Importancia de características**               |
+|-------------------------------------------|--------------------------------------------------|
+| ![Resultados SVM](https://github.com/user-attachments/assets/1777dd1a-94e4-4004-ba85-f1e3db6d032d) | ![Importancia de las caracteristicas SVM](https://github.com/user-attachments/assets/b801957b-55b0-4149-ba49-8da7ed3360c6) |
+
+| **Matriz de Confusión**                   | **Curva ROC**                                    |
+|-------------------------------------------|--------------------------------------------------|
+| ![matriz de confusion SVM](https://github.com/user-attachments/assets/c2d2576f-fffa-459d-8792-2f37bace0cf2) | ![Curva roc SVM](https://github.com/user-attachments/assets/fe67079c-2c24-4d2e-aadd-99fb4b3af896) |
+
+
   
 - **Dataset IFRS 9**:
   - El modelo Random Forest alcanzó una precisión del 98.76% y un AUC de 99.92%, mostrando gran capacidad de predicción en escenarios financieros.
+
+| **Resultados**                           | **Importancia de características**               |
+|-------------------------------------------|--------------------------------------------------|
+| ![Resultados Random forest](https://github.com/user-attachments/assets/ea7e4bdc-9164-488d-bb8e-c9c76b9ccc4b) | ![Importancia de características random forest](https://github.com/user-attachments/assets/fe12b751-468e-4d26-a5e5-27def05bc840) |
+
+| **Matriz de Confusión**                   | **Curva ROC**                                    |
+|-------------------------------------------|--------------------------------------------------|
+| ![Matriz de confusión random forest](https://github.com/user-attachments/assets/f7caeee6-7917-4d0d-afcb-3482f1daeef6) | ![Curva ROC random forest](https://github.com/user-attachments/assets/93ec9874-3c74-44b4-b127-114f018702e7) |
+
 
 ## Tecnologías
 - **Python**: Utilizado para el análisis y modelado.
