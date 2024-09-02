@@ -66,7 +66,6 @@ Comparar y evaluar diversos modelos de aprendizaje supervisado para predecir el 
   - seaborn
 
 
-## Visualizaciones
-Se generaron gráficos que muestran la importancia de las características en los modelos y las curvas ROC para medir el rendimiento de los clasificadores.
-
+## Datasets disponibles
+https://drive.google.com/drive/folders/1bJ2oDYfe48wLIJKerDiB10GuCCkNIMIZ?usp=sharing
 
