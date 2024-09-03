@@ -68,8 +68,6 @@ Comparar y evaluar diversos modelos de aprendizaje supervisado para predecir el 
 
 ## Datasets disponibles
 https://drive.google.com/drive/folders/1bJ2oDYfe48wLIJKerDiB10GuCCkNIMIZ?usp=sharing
-## Duración del proyecto
-Claro, aquí tienes una versión mejorada:
 
 ## Duración del proyecto
 El proyecto fue completado en el transcurso de un año, distribuyéndose en dos asignaturas universitarias: Trabajo de Título 1 y Trabajo de Título 2. La dedicación de horas-hombre varió según mi disponibilidad a lo largo de este período.
